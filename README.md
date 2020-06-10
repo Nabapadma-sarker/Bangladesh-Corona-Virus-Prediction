@@ -1,12 +1,12 @@
 # Bangladesh-Corona-Virus-Prediction
 Corona Virus affect Prediction.
 
-##Data Collection
-Data have collected from [Bangladesh Corona Worldometers](https://www.worldometers.info/coronavirus/) 
+## Data Collection
+Data have collected from [Bangladesh Corona Worldometers](https://www.worldometers.info/coronavirus/country/bangladesh/) 
 ```
 making-dataset.ipynb
 ```
-##Linear regression Prediction
+## Linear regression Prediction
 from csv data to graph have been plotted. 
 ```
 Linear prediction(learning algo).ipynb
