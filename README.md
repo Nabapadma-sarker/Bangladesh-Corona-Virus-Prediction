@@ -16,7 +16,7 @@ new Cases graph
 new Deaths graph
 ![Alt new Deaths graph](./newDeathsBarLinegraph.png?raw=true "new Deaths graph")
 
-###After regression 
+### After regression 
 new Cases learning graph
 ![Alt new Cases graph](./newLearningCasesLinegraph.png?raw=true "new Cases graph")
 new Deaths learning graph
